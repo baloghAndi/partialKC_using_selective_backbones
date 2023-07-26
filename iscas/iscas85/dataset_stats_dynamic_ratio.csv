@@ -1,0 +1,8 @@
+./iscas/iscas85/c1355.isc.cnf
+p,var,value,MC,BDD len,n_vars,n_nodes,n_reorderings,dag_size,time
+./iscas/iscas85/c1908.isc.cnf
+p,var,value,MC,BDD len,n_vars,n_nodes,n_reorderings,dag_size,time
+./iscas/iscas85/c2670.isc.cnf
+p,var,value,MC,BDD len,n_vars,n_nodes,n_reorderings,dag_size,time
+./iscas/iscas85/c1355.isc.cnf
+p,var,value,MC,BDD len,n_vars,n_nodes,n_reorderings,dag_size,time
